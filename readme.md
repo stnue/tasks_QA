@@ -11,7 +11,7 @@
 
 git clone https://github.com/stnue/tasks_QA.git
 
-Или скачайте ZIP-архив по ссылке и распакуйте его.
+Или скачайте ZIP-архив по ссылке (https://github.com/stnue/tasks_QA/archive/refs/heads/main.zip) и распакуйте его.
 
 **2. Убедитесь, что на вашем компьютере установлен Python, с помощью команды:**
 
