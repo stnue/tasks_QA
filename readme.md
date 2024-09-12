@@ -9,7 +9,7 @@
 
 **1. Клонируйте репозиторий проекта выполнив команду:**
 
-git clone https://github.com/YourRepository/YourProject.git
+git clone https://github.com/stnue/tasks_QA.git
 
 Или скачайте ZIP-архив по ссылке и распакуйте его.
 
